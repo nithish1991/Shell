@@ -11,7 +11,7 @@
 #
 #
 ################################
-##Practice GitHub###
+##Practice GitHub update 2###
 
 if [ ${#@} -lt 2 ]; then
     echo "usage: $0 [your github token] [REST expression]"
